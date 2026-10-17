@@ -1,0 +1,8 @@
+{
+  "files": [
+    {
+      "path": "train.jsonl",
+      "weight": 1.0
+    }
+  ]
+}

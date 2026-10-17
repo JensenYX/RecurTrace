@@ -1,0 +1,4 @@
+include README_zh-CN.md
+include train.py generate.py prepare_oracle.py train_halting.py
+recursive-include examples *.json *.jsonl
+recursive-include assets *.png

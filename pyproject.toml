@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "recurtrace"
+version = "0.1.0"
+description = "Adaptive latent reasoning with loop-time memory for Qwen3"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+authors = [{name = "RecurTrace authors"}]
+dependencies = [
+    "torch==2.10.0",
+    "transformers==5.2.0",
+    "accelerate==1.13.0",
+    "datasets==4.7.0",
+    "safetensors==0.7.0",
+]
+
+[project.urls]
+Repository = "https://github.com/JensenYX/RecurTrace"
+Paper = "https://arxiv.org/abs/2609.03379"
+
+[tool.setuptools.packages.find]
+include = ["recurtrace*"]

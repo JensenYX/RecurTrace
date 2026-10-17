@@ -1,0 +1,10 @@
+RecurTrace
+Copyright 2026 RecurTrace authors
+
+RecurTrace builds on Qwen3 and Hugging Face Transformers.
+The Qwen3-derived model and loop-distance initialization retain the following attribution:
+Copyright 2025 The Qwen team, Alibaba Group and the HuggingFace Inc. team.
+These components are licensed under the Apache License, Version 2.0.
+
+The figures are from "RecurTrace: Adaptive Latent Reasoning with Loop-Time Memory"
+by Yuxiang Wang, Kunyu Feng, Yingda Shen, Haoning Xu, Junyu Wang, and Zhizheng Wu.
