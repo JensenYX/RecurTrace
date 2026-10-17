@@ -4,7 +4,15 @@
 
 **借助循环记忆实现自适应隐空间推理**
 
-[论文](https://arxiv.org/abs/2609.03379) · [English](README.md) · [简体中文](README_zh-CN.md)
+<p>
+  <a href="https://arxiv.org/abs/2609.03379"><img src="assets/paper-badge.svg" alt="arXiv · 论文" height="32"></a>
+  &nbsp;
+  <a href="LICENSE"><img src="assets/license-badge.svg" alt="许可证 · Apache 2.0" height="32"></a>
+</p>
+
+[English](README.md) · **简体中文**
+
+[快速开始](#快速开始) · [自适应深度](#自适应深度) · [Python 接口](#python-接口) · [论文结果](#论文结果)
 
 </div>
 

@@ -4,7 +4,15 @@
 
 **Adaptive Latent Reasoning with Loop-Time Memory**
 
-[Paper](https://arxiv.org/abs/2609.03379) · [English](README.md) · [简体中文](README_zh-CN.md)
+<p>
+  <a href="https://arxiv.org/abs/2609.03379"><img src="assets/paper-badge.svg" alt="arXiv · Paper" height="32"></a>
+  &nbsp;
+  <a href="LICENSE"><img src="assets/license-badge.svg" alt="License · Apache 2.0" height="32"></a>
+</p>
+
+**English** · [简体中文](README_zh-CN.md)
+
+[Quick start](#quick-start) · [Adaptive depth](#adaptive-depth) · [Python API](#python-api) · [Results](#results-from-the-paper)
 
 </div>
 
